@@ -1,3 +1,7 @@
+// Full React-based MVP code for a Cognitive Development & IQ Testing Platform
+// Includes: Homepage, Navigation, Test Categories, Training Modules, Recovery Area, and Dashboard
+// Dependencies: React Router, Tailwind CSS
+
 import React from "react";
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 
